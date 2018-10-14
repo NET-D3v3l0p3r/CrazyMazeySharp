@@ -1,0 +1,10 @@
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.csprojAssemblyReference.cache
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.Form1.resources
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.Properties.Resources.resources
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.csproj.GenerateResource.cache
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.csproj.CoreCompileInputs.cache
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\bin\Debug\CrazyMaze.exe.config
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\bin\Debug\CrazyMaze.exe
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\bin\Debug\CrazyMaze.pdb
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.exe
+C:\Users\Enes Hergül\source\repos\CrazyMaze\CrazyMaze\obj\Debug\CrazyMaze.pdb

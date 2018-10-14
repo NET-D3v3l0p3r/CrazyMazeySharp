@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyMaze", "CrazyMaze\CrazyMaze.csproj", "{BF355A03-0FD9-4FBB-B4C7-2345635F7B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF355A03-0FD9-4FBB-B4C7-2345635F7B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF355A03-0FD9-4FBB-B4C7-2345635F7B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF355A03-0FD9-4FBB-B4C7-2345635F7B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF355A03-0FD9-4FBB-B4C7-2345635F7B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96516B42-066B-4DA3-9483-35F1AC294C4E}
+	EndGlobalSection
+EndGlobal
